@@ -1,0 +1,13 @@
+interval = 86400
+splay = 900
+splay_first_run = 0
+
+[chef_license]
+acceptance = "accept-no-persist"
+
+[automate]
+enable = true
+environment = "windows"
+server_url = "https://10.11.1.147"
+token = "w9jKIRHIm9vMBW_3s95spyX9O2M="
+user = "admin"

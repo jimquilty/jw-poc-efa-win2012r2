@@ -1,0 +1,7 @@
+name: effortless-win2012r2-memberserver-cis
+title: Windows Server 2012R2 CIS Profile
+version: 1.0.0
+
+depends:
+  - name: cis-windows2012r2-level1-memberserver
+    compliance: admin/cis-windows2012r2-level1-memberserver
